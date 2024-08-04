@@ -11,7 +11,7 @@ import SwiftUI
 struct MusicBoxApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoadingPageView()
         }
     }
 }
